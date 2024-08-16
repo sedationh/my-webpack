@@ -1,1 +1,1 @@
-[].map((a=>a+1));
+(()=>{"use strict";var r={72:(r,o)=>{Object.defineProperty(o,"__esModule",{value:!0}),o.bar=void 0,o.bar=10},861:(r,o,e)=>{o.J=void 0;var t=e(72);o.J=function(){console.log({bar:t.bar}),console.log("Hello World!")}}},o={},e=function e(t){var n=o[t];if(void 0!==n)return n.exports;var a=o[t]={exports:{}};return r[t](a,a.exports,e),a.exports}(861);[].map((function(r){return r+1})),(0,e.J)()})();
